@@ -2,7 +2,7 @@
 
 This project was part of an open-ended data analysis project from my DS 740 Data Mining & Machine Learning class (UWLAX MS in Data Science)
 
-I chose to analyze an Australian Athelete data set and build a classifier model that would classify what sport groups a person would fall under based on the predictor variables in the data set.
+I chose to analyze an Australian Athlete data set and build a classifier model that would classify what sport groups a person would fall under based on the predictor variables in the data set.
 
 Data Preperation & Cleaning (step 1):
 
